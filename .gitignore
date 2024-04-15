@@ -1,0 +1,25 @@
+# backup files
+*~
+*.bak
+.DS_Store
+
+# project file
+*.hdp
+
+# documentation build directory
+build/
+
+# compiler build directory
+_build/
+
+# dylan tool package cache
+_packages/
+
+# package registry folder
+registry/
+
+# c executables
+*.exe
+
+# object files
+*.o

@@ -1,0 +1,14 @@
+{
+    "dependencies": [],
+    "dev-dependencies": [
+	"testworks"
+    ],
+    "description": "YOUR DESCRIPTION HERE",
+    "name": "random",
+    "version": "0.1.0",
+    "url": "https://github.com/fraya/random",
+    "keywords": [ "random", "prng", "xoshiro" ],
+    "contact": "fernandoraya at gmail",
+    "license": "MIT",
+    "license-url": ""
+}
